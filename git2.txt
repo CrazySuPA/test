@@ -1,6 +1,6 @@
 git config
 git config --global user.name zyw
-git config --global user.email 2664942926@qq.com
+git config --global user.email 2664942926@qq.com231231
 git config --list 查看git的配置情况
 
 git log
